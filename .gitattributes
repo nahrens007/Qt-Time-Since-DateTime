@@ -1,0 +1,6 @@
+*.pro linguist-vendored
+*.user linguist-vendored
+*Makefile linguist-vendored
+*.stash linguist-vendored
+*.Debug linguist-vendored
+*.Release linguist-vendored
